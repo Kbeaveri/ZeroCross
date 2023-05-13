@@ -1,5 +1,4 @@
-import sys
-import pygame
 from Game import Game
 
-cross = Game()
+game = Game()
+game.new_ground()
